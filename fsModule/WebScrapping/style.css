@@ -1,0 +1,22 @@
+h1,h2{
+    color: blue;
+    text-align: center; 
+}
+
+.change{
+    color: darkgoldenrod;
+}
+#unique {
+    color: darkgreen;
+}
+.hey{
+    color: blue;
+}
+div{
+    height: 100px;
+    width: 100px;
+    color: aqua;
+}
+div h1{
+    color: black;
+}
